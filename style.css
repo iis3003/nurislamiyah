@@ -1,8 +1,17 @@
 body {
-    padding-top: 70px;
+    padding-top: 56px;
 }
 
-.card img {
-    height: 200px;
-    object-fit: cover;
+.jumbotron {
+    background-color: #ffb5e4;
+    padding: 4rem 2rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: #ffb2cc;
+    padding: 1rem 0;
 }
